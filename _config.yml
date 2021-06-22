@@ -2,7 +2,7 @@
 title:               Rombornoz
 tagline:             'Un blog de Joaquín Romero'
 description:         'Descripción toda piola'
-url:                 http://lanyon.getpoole.com
+url:                 http://www.rombornoz.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -18,5 +18,5 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.1.0
+version:             #
 google_analytics_id: #UA-XXXX-Y
