@@ -2,7 +2,7 @@
 title:               Rombornoz
 tagline:             'Un blog de Joaquín Romero'
 description:         'Descripción toda piola'
-url:                 http://www.rombornoz.com
+url:                 https://www.rombornoz.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
