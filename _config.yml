@@ -1,7 +1,7 @@
 # Setup
 title:               Rombornoz
 tagline:             'Un blog de Joaquín Romero'
-#description:         ''
+description:         'Recordatorio: Insertar frase célebre e inspiradora como descripción del sitio.'
 url:                 https://www.rombornoz.com
 baseurl:             ''
 paginate:            5
