@@ -1,7 +1,7 @@
 # Setup
 title:               Rombornoz
 tagline:             'Un blog de Joaquín Romero'
-description:         'Descripción toda piola'
+#description:         ''
 url:                 https://www.rombornoz.com
 baseurl:             ''
 paginate:            5
@@ -10,8 +10,11 @@ permalink:           pretty
 # About/contact
 author:
   name:              Joaquín Romero
-  url:               https://www.linkedin.com/in/joarombornoz/
+  url:               
   email:             
+
+footer-links:
+  linkedin:          https://www.linkedin.com/in/joarombornoz/
 
 # Gems
 plugins:
